@@ -15,6 +15,9 @@ downloads/
 eggs/
 .eggs/
 *.pdf
+*.pdf
+*.docx
+*.tmp
 lib/
 lib64/
 parts/
